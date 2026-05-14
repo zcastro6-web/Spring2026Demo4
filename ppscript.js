@@ -65,7 +65,7 @@ const portraits = [
 },
 
 {
-  img: "ShortPhoto/photo10.jpg",
+  img: "ShortPhoto/photo10.JPG",
   title: "Noir",
   desc: "Street lights",
   date: "January 31, 2024",
