@@ -107,259 +107,259 @@ const portraits = [
 },
 
 {
-  img: "ShortPhoto/photo16.jpg",
+  img: "ShortPhoto2/photo16.jpg",
   title: "Winter gaze",
   desc: "Yosemite in snow.",
   date: "March 14, 2025",
 },
 
 {
-  img: "ShortPhoto/photo17.jpg",
+  img: "ShortPhoto2/photo17.jpg",
   title: "Serenity",
   desc: "Yosemite in snow.",
   date: "March 14, 2025",
 },
 
 {
-  img: "ShortPhoto/photo18.jpg",
+  img: "ShortPhoto2/photo18.jpg",
   title: "Rest",
   desc: "Yosemite in snow.",
   date: "March 14, 2025",
 },
 
 {
-  img: "ShortPhoto/photo19.jpg",
+  img: "ShortPhoto2/photo19.jpg",
   title: "Bridge",
   desc: "Yosemite in snow.",
   date: "March 14, 2025",
 },
 
 {
-  img: "ShortPhoto/photo20.jpg",
+  img: "ShortPhoto2/photo20.jpg",
   title: "Lake",
   desc: "Yosemite in snow.",
   date: "March 14, 2025",
 },
 
 {
-  img: "ShortPhoto/photo21.jpg",
+  img: "ShortPhoto2/photo21.jpg",
   title: "Crow",
   desc: "Yosemite in snow.",
   date: "March 14, 2025",
 },
 
 {
-  img: "ShortPhoto/photo22.jpg",
+  img: "ShortPhoto2/photo22.jpg",
   title: "Twice the pride, double the fall",
   desc: "- Count Dooku",
   date: "March 14, 2025",
 },
 
 {
-  img: "ShortPhoto/photo23.jpg",
+  img: "ShortPhoto2/photo23.jpg",
   title: "Waterfall",
   desc: "Yosemite in snow.",
   date: "March 15, 2025",
 },
 
 {
-  img: "ShortPhoto/photo24.jpg",
+  img: "ShortPhoto2/photo24.jpg",
   title: "Waterfall",
   desc: "Yosemite in snow.",
   date: "March 15, 2025",
 },
 
 {
-  img: "ShortPhoto/photo25.jpg",
+  img: "ShortPhoto2/photo25.jpg",
   title: "Tunnel View",
   desc: "Yosemite in snow.",
   date: "March 15, 2025",
 },
 
 {
-  img: "ShortPhoto/photo26.jpg",
+  img: "ShortPhoto2/photo26.jpg",
   title: "A Storm is Coming",
   desc: "Yosemite in snow.",
   date: "March 15, 2025",
 },
 
 {
-  img: "ShortPhoto/photo27.jpg",
+  img: "ShortPhoto2/photo27.jpg",
   title: "Cold",
   desc: "Yosemite in snow.",
   date: "March 14, 2025",
 },
 
 {
-  img: "ShortPhoto/photo28.jpg",
+  img: "ShortPhoto2/photo28.jpg",
   title: "Tunnel View",
   desc: "Yosemite in snow.",
   date: "March 15, 2025",
 },
 
 {
-  img: "ShortPhoto/photo29.jpg",
+  img: "ShortPhoto2/photo29.jpg",
   title: "'I am a man of fortune, and I must seek my fortune.'",
   desc: "- Sir Francis Drake",
   date: "March 15, 2025",
 },
 
 {
-  img: "ShortPhoto/photo30.jpg",
+  img: "ShortPhoto2/photo30.jpg",
   title: "Tilted Towers",
   desc: "Yosemite in snow.",
   date: "March 15, 2025",
 },
 
 {
-  img: "ShortPhoto/photo31.jpg",
+  img: "ShortPhoto3/photo31.jpg",
   title: "Overhanging Rock",
   desc: "Glacier Point",
   date: "July 8, 2025",
 },
 
 {
-  img: "ShortPhoto/photo32.jpg",
+  img: "ShortPhoto3/photo32.jpg",
   title: "Philippines",
   desc: "A view of the University of the Cordilleras from SM (mall in Baguio)",
   date: "December 15, 2022",
 },
 
 {
-  img: "ShortPhoto/photo33.jpg",
+  img: "ShortPhoto3/photo33.jpg",
   title: "Joy in the Morning",
   desc: "A beautiful shot of nature in the morning.",
   date: "July 23, 2024",
 },
 
 {
-  img: "ShortPhoto/photo34.jpg",
+  img: "ShortPhoto3/photo34.jpg",
   title: "Fountain of Youth",
   desc: "Philippines",
   date: "December 15, 2022",
 },
 
 {
-  img: "ShortPhoto/photo35.jpg",
+  img: "ShortPhoto3/photo35.jpg",
   title: "Pathway",
   desc: "Cupertino",
   date: "June 16, 2024",
 },
 
 {
-  img: "ShortPhoto/photo36.jpg",
+  img: "ShortPhoto3/photo36.jpg",
   title: "History",
   desc: "San Jose",
   date: "June 30, 2024",
 },
 
 {
-  img: "ShortPhoto/photo37.jpg",
+  img: "ShortPhoto3/photo37.jpg",
   title: "Close Up",
   desc: "Texture",
   date: "August 31, 2023",
 },
 
 {
-  img: "ShortPhoto/photo38.jpg",
+  img: "ShortPhoto3/photo38.jpg",
   title: "Prismatic",
   desc: "Mariposa",
   date: "March 16, 2025",
 },
 
 {
-  img: "ShortPhoto/photo39.jpg",
+  img: "ShortPhoto3/photo39.jpg",
   title: "Flower of Evil",
   desc: "Milpitas",
   date: "July 10, 2025",
 },
 
 {
-  img: "ShortPhoto/photo40.jpg",
+  img: "ShortPhoto3/photo40.jpg",
   title: "Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it.",
   desc: "Matthew 7:13-14",
   date: "July 7, 2025",
 },
 
 {
-  img: "ShortPhoto/photo41.jpg",
+  img: "ShortPhoto3/photo41.jpg",
   title: "Hallway",
   desc: "Family trip at Oakhurst.",
   date: "July 6, 2025",
 },
 
 {
-  img: "ShortPhoto/photo42.jpg",
+  img: "ShortPhoto3/photo42.jpg",
   title: "Living Room",
   desc: "Family trip at Oakhurst.",
   date: "July 6, 2025",
 },
 
 {
-  img: "ShortPhoto/photo43.jpg",
+  img: "ShortPhoto3/photo43.jpg",
   title: "Inception",
   desc: "Paris Baguette mirror",
   date: "June 19, 2024",
 },
 
 {
-  img: "ShortPhoto/photo44.jpg",
+  img: "ShortPhoto3/photo44.jpg",
   title: "Guidance",
   desc: "Your word is a lamp for my feet, light on my path. -Psalm 119:105",
   date: "July 26, 2024",
 },
 
 {
-  img: "ShortPhoto/photo45.jpg",
+  img: "ShortPhoto3/photo45.jpg",
   title: "Portait Warm",
   desc: "Big boi Daniel",
   date: "December 9, 2022",
 },
 
 {
-  img: "ShortPhoto/photo46.jpg",
+  img: "ShortPhoto4/photo46.jpg",
   title: "Perfect capture",
   desc: "Sunset on Campus",
   date: "April 7, 2025",
 },
 
 {
-  img: "ShortPhoto/photo47.jpg",
+  img: "ShortPhoto4/photo47.jpg",
   title: "Cotton Candy",
   desc: "Sunset on Campus",
   date: "March 10, 2025",
 },
 
 {
-  img: "ShortPhoto/photo48.jpg",
+  img: "ShortPhoto4/photo48.jpg",
   title: "Freeway",
   desc: "Sunset at Fremont",
   date: "March 1, 2026",
 },
 
 {
-  img: "ShortPhoto/photo49.jpg",
+  img: "ShortPhoto4/photo49.jpg",
   title: "Tranquility",
   desc: "Sunset at Los Angeles",
   date: "December 28, 2024",
 },
 
 {
-  img: "ShortPhoto/photo50.jpg",
+  img: "ShortPhoto4/photo50.jpg",
   title: "Let It Go",
   desc: "Sunset at Milpitas",
   date: "September 13, 2022",
 },
 
 {
-  img: "ShortPhoto/photo51.jpg",
+  img: "ShortPhoto4/photo51.jpg",
   title: "Skywalker",
   desc: "Sunset at Milpitas",
   date: "September 13, 2022",
 },
 
 {
-  img: "ShortPhoto/photo52.jpg",
+  img: "ShortPhoto4/photo52.jpg",
   title: "Dinner",
   desc: "What I ate after a tough shift",
   date: "July 14, 2024",
