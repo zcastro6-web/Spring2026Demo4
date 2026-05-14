@@ -296,7 +296,7 @@ const portraits = [
 },
 
 {
-  img: "ShortPhoto3/photo43.jpg",
+  img: "inception.jpg",
   title: "Inception",
   desc: "Paris Baguette mirror",
   date: "June 19, 2024",
