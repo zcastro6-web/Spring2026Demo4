@@ -58,14 +58,14 @@ const portraits = [
 },
 
 {
-  img: "ShortPhoto/photo9.JPG",
+  img: "ShortPhoto/photo9.jpg",
   title: "Jesus Christ",
   desc: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. <br> - John 3:16",
   date: "March 10, 2024",
 },
 
 {
-  img: "ShortPhoto/photo10.JPG",
+  img: "ShortPhoto/photo10.jpg",
   title: "Noir",
   desc: "Street lights",
   date: "January 31, 2024",
@@ -296,7 +296,7 @@ const portraits = [
 },
 
 {
-  img: "ShortPhoto3/photo43.JPG",
+  img: "ShortPhoto3/photo43.jpg",
   title: "Inception",
   desc: "Paris Baguette mirror",
   date: "June 19, 2024",
