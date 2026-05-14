@@ -58,7 +58,7 @@ const portraits = [
 },
 
 {
-  img: "ShortPhoto/photo9.jpg",
+  img: "ShortPhoto/photo9.JPG",
   title: "Jesus Christ",
   desc: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. <br> - John 3:16",
   date: "March 10, 2024",
