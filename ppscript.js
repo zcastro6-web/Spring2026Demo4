@@ -151,7 +151,7 @@ const portraits = [
 {
   img: "ShortPhoto2/photo22.jpg",
   title: "Hubris",
-  desc: "Twice the pride, double the fall - Count Dooku",
+  desc: "Twice the pride, double the fall - Count Dooku.",
   date: "March 14, 2025",
 },
 
