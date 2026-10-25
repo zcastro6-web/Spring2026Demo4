@@ -151,7 +151,7 @@ const portraits = [
 {
   img: "ShortPhoto2/photo22.jpg",
   title: "Hubris",
-  desc: "'Twice the pride, double the fall - Count Dooku'.",
+  desc: "'Twice the pride, double the fall - Count Dooku.'",
   date: "March 14, 2025",
 },
 
@@ -200,7 +200,7 @@ const portraits = [
 {
   img: "ShortPhoto2/photo29.jpg",
   title: "Uncharted",
-  desc: "'I am a man of fortune, and I must seek my fortune.' - Sir Francis Drake",
+  desc: "'I am a man of fortune, and I must seek my fortune.' - Sir Francis Drake.",
   date: "March 15, 2025",
 },
 
