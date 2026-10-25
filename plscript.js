@@ -32,8 +32,8 @@ const landscapes = [
 
 {
   img: "LongPhoto/Photo5.jpg",
-  title: "Dome",
-  desc: "Yosemite in winter",
+  title: "Snow Globe",
+  desc: "Park Victoria Baptist Church",
   date: "January 29, 2024",
 },
 
@@ -165,7 +165,7 @@ const landscapes = [
 
 {
   img: "LongPhoto2/Photo24.jpg",
-  title: "A Glimpse of Freedom",
+  title: "Let It Bloom",
   desc: "CSUEB",
   date: "February 26, 2024",
 },
